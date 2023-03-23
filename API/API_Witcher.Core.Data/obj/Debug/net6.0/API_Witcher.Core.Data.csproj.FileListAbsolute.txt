@@ -1,0 +1,17 @@
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\bin\Debug\net6.0\API_Witcher.Core.Data.deps.json
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\bin\Debug\net6.0\API_Witcher.Core.Data.runtimeconfig.json
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\bin\Debug\net6.0\API_Witcher.Core.Data.dll
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\bin\Debug\net6.0\API_Witcher.Core.Data.pdb
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\bin\Debug\net6.0\API_Witcher.Core.Models.dll
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\bin\Debug\net6.0\API_Witcher.Core.Models.pdb
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\obj\Debug\net6.0\API_Witcher.Core.Data.csproj.AssemblyReference.cache
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\obj\Debug\net6.0\API_Witcher.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\obj\Debug\net6.0\API_Witcher.Core.Data.AssemblyInfoInputs.cache
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\obj\Debug\net6.0\API_Witcher.Core.Data.AssemblyInfo.cs
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\obj\Debug\net6.0\API_Witcher.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\obj\Debug\net6.0\API_Witcher.Core.Data.csproj.CopyComplete
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\obj\Debug\net6.0\API_Witcher.Core.Data.dll
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\obj\Debug\net6.0\refint\API_Witcher.Core.Data.dll
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\obj\Debug\net6.0\API_Witcher.Core.Data.pdb
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\obj\Debug\net6.0\API_Witcher.Core.Data.genruntimeconfig.cache
+C:\Users\ryabo\OneDrive\Рабочий стол\Баловство\ReactApplications\react-witcher\API\API_Witcher.Core.Data\obj\Debug\net6.0\ref\API_Witcher.Core.Data.dll

@@ -1,0 +1,47 @@
+.wrapper {
+  --color-name: var(--color-violet);
+  margin-top: 45px;
+}
+.person__name {
+  color: var(--color-white);
+  font-size: var(--font-size-subheader);
+  font-weight: var(--font-bold);
+  background-color: var(--color-name);
+  padding: var(--spacing-small);
+  border-radius: var(--border-radius-small) var(--border-radius-small)
+    var(--border-radius-small) 0;
+}
+.person__description {
+  width: 300px;
+  font-size: var(--font-size-main);
+  color: var(--color-white);
+  padding: var(--spacing-medium);
+  background-color: rgba(0, 0, 0, 0.65);
+  border-radius: var(--border-radius-medium);
+  margin-left: var(--spacing-medium);
+}
+.person__image {
+  width: 250px;
+  height: 350px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: var(--border-radius-medium);
+}
+.container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  border-left: 5px solid var(--color-name);
+  padding: var(--spacing-medium);
+  border-radius: var(--border-radius-small);
+}
+@media screen and (max-width: 700px) {
+  .wrapper {
+    width: 100%;
+    margin: 0;
+    margin-top: var(--spacing-medium);
+  }
+  .container {
+    text-align: center;
+  }
+}
